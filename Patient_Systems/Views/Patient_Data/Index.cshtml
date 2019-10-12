@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Patient_Systems.Models.Patient_Data>
+
+@{
+    ViewBag.Title = "getall";
+}
+
+<h2 style="text-align:center">Patient Data</h2>
+<button style="border-radius:10px;background-color:blueviolet;height:40px;width:200px;">@Html.ActionLink("Patient_Result", "Index", "Results",null,new { @style="Color:black;font-weight:bold;font-size:20px"})</button>
+<br>
+<br>
+@Html.ActionLink("Create New", "Create")
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-3" style="height:250px;width:280px;">
+            <img src="@Url.Content(item.Image)" style="height:200px;width:200px;border-radius:10px;" />
+            <br />
+            <span>Name &nbsp;&nbsp; @Html.DisplayFor(modelItem => item.Full_Name)</span>
+            <br />
+            <span>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </span>
+        </div>
+
+
+    }
+
+    </div>
+
+
+
+
+
+
+
+
+
+

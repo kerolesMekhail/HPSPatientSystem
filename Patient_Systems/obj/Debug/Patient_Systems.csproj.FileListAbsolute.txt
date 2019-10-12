@@ -1,0 +1,198 @@
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\ApplicationInsights.config
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\csc.exe
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\csc.exe.config
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\csc.rsp
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\csi.exe
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\csi.rsp
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\System.AppContext.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\System.Collections.Immutable.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\System.IO.FileSystem.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\vbc.exe
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\vbc.exe.config
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\vbc.rsp
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\VBCSCompiler.exe
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\roslyn\VBCSCompiler.exe.config
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Patient_Systems.dll.config
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Patient_Systems.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Patient_Systems.pdb
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Antlr3.Runtime.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\EntityFramework.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\EntityFramework.SqlServer.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.Web.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.WindowsServer.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.ApplicationInsights.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Google.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Web.Infrastructure.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Newtonsoft.Json.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Owin.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Helpers.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Mvc.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Optimization.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Razor.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Deployment.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Razor.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\WebGrease.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Helpers.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Mvc.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Optimization.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.Razor.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Deployment.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Razor.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Antlr3.Runtime.pdb
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Newtonsoft.Json.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\EntityFramework.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\EntityFramework.SqlServer.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Google.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.ApplicationInsights.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.WindowsServer.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\bin\Microsoft.AI.Web.xml
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.csprojResolveAssemblyReference.cache
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.dll
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.pdb
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.Migrations.patient.resources
+c:\users\keroles\documents\visual studio 2017\Projects\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.csproj.GenerateResource.Cache
+E:\Admin\Patient_Systems\Patient_Systems\bin\ApplicationInsights.config
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\csc.exe
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\csc.exe.config
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\csc.rsp
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\csi.exe
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\csi.rsp
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\System.AppContext.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\System.Collections.Immutable.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\System.IO.FileSystem.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\System.Reflection.Metadata.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\vbc.exe
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\vbc.exe.config
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\vbc.rsp
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\VBCSCompiler.exe
+E:\Admin\Patient_Systems\Patient_Systems\bin\roslyn\VBCSCompiler.exe.config
+E:\Admin\Patient_Systems\Patient_Systems\bin\Patient_Systems.dll.config
+E:\Admin\Patient_Systems\Patient_Systems\bin\Patient_Systems.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Patient_Systems.pdb
+E:\Admin\Patient_Systems\Patient_Systems\bin\Antlr3.Runtime.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\EntityFramework.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\EntityFramework.SqlServer.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.DependencyCollector.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.Web.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.WindowsServer.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.ApplicationInsights.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Google.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Web.Infrastructure.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Newtonsoft.Json.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Owin.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Helpers.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Mvc.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Optimization.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Razor.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Deployment.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Razor.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\WebGrease.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Helpers.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Mvc.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Optimization.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.Razor.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Deployment.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\System.Web.WebPages.Razor.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Antlr3.Runtime.pdb
+E:\Admin\Patient_Systems\Patient_Systems\bin\Newtonsoft.Json.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\EntityFramework.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\EntityFramework.SqlServer.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Google.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.ApplicationInsights.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.DependencyCollector.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.WindowsServer.xml
+E:\Admin\Patient_Systems\Patient_Systems\bin\Microsoft.AI.Web.xml
+E:\Admin\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.csprojResolveAssemblyReference.cache
+E:\Admin\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.dll
+E:\Admin\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.pdb
+E:\Admin\Patient_Systems\Patient_Systems\bin\Rotativa.Core.dll
+E:\Admin\Patient_Systems\Patient_Systems\bin\Rotativa.MVC.dll
+E:\Admin\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.Migrations.s.resources
+E:\Admin\Patient_Systems\Patient_Systems\obj\Debug\Patient_Systems.csproj.GenerateResource.Cache

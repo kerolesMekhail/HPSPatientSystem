@@ -1,0 +1,27 @@
+﻿@model Patient_Systems.Models.Patient_Data
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 style="text-align:center;">Details</h2>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div style="height:400px;width:100%;border-radius:20px;border:1px solid white;">
+            <img src="@Url.Content(Model.Image)" style="height:400px;width:100%;border-radius:20px;border:1px solid white;" />
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <br /><br /><br />
+        <span>@Html.DisplayNameFor(model => model.Full_Name)</span> | @Html.DisplayFor(model => model.Full_Name)<br />
+        <span>@Html.DisplayNameFor(model => model.Address)</span> | @Html.DisplayFor(model => model.Address)<br />
+        <span>@Html.DisplayNameFor(model => model.Age)</span> | @Html.DisplayFor(model => model.Age)<br />
+        <span>@Html.DisplayNameFor(model => model.Gender)</span> | @Html.DisplayFor(model => model.Gender)<br />
+       <span>@Html.DisplayNameFor(model => model.Mobile)</span> | @Html.DisplayFor(model => model.Mobile)
+    </div>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
